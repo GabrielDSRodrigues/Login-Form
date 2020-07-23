@@ -1,7 +1,7 @@
 @media (max-width: 720px) {
-	body {
-		height: 1000px;
-	}
+  body {
+    height: 1000px;
+  }
   .faixa {
     min-height: 0;
     height: auto;
@@ -18,8 +18,8 @@
     border-radius: 4px;
     box-shadow: 0 0 4px #212121;
   }
- .send {
-		background: #30acff;
-		font-weight: bold;
- }
+  .send {
+    background: #30acff;
+    font-weight: bold;
+  }
 }
