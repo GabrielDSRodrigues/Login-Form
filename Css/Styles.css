@@ -1,7 +1,12 @@
+@font-face {
+  font-family: AdamM;
+  src: url(../Fontes/Adam-Medium.ttf);
+}
+
 * {
   padding : 0;
   margin : 0;
-  font-family: sans-serif;
+  font-family: AdamM;
 }
 
 body {
