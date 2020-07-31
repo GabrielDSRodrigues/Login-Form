@@ -3,6 +3,10 @@
   src: url(../Fontes/Adam-Medium.ttf);
 }
 
+@font-face {
+  font-family: AdamB;
+  src: url(../Fontes/Adam-Bold.ttf);
+}
 * {
   padding : 0;
   margin : 0;
@@ -25,6 +29,7 @@ body {
   color: white;
   text-align: center;
   margin-bottom: 40px;
+  font-family: AdamB;
 }
 
 .textbox {
@@ -56,6 +61,7 @@ body {
   margin-top: 15px;
   outline: none;
   margin-bottom: 30px;
+  font-family: AdamB;
 }
 
 .link {
